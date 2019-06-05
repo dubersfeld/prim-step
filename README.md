@@ -18,7 +18,7 @@ After graph initialization:
 After the component was found:
 ![alt text](images/findComp.png "Component found")
 
-After the end of the animation:
+After a search step:
 ![alt text](images/searchStep.png "Search step")
 
 For a demonstration of the Kruskal minimum spanning tree algorithm please visit these repositories:
